@@ -6,6 +6,9 @@ Date : 24/08/1400
 [Instagram](https://www.instagram.com/kucssa/) <br />
 [Telegram](https://t.me/kucssa) <br /><br />
 
+## Presentation File:
+[View in GoogleDrive](https://docs.google.com/presentation/d/1Qvbd5IkTBSIJNcF1QWXZs3oTK-rWcV-i/edit?usp=sharing&ouid=104792784403357058189&rtpof=true&sd=true)
+
 ## Related Urls :
 1. **Find new Job:**<br/>
   - [JobInja](https://jobinja.ir/jobs) <br/>
