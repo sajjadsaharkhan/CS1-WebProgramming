@@ -1,7 +1,10 @@
 # CS1-WebProgramming
 
-__Third Session of CS 1 - Web Programming Scientific Association of Computer Science, Kashan University__
+__Third Session of CS 1 - Web Programming Scientific Association of Computer Science, Kashan University__ <br/>
 Date : 24/08/1400
+
+[Instagram](https://www.instagram.com/kucssa/) <br />
+[Telegram](https://t.me/kucssa) <br /><br />
 
 ## Related Urls :
 1. **Find new Job:**<br/>
